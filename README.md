@@ -11,11 +11,11 @@ Ukázka kódu2
     
     projekt_2.py: druhý projekt do Engeto Online Python Akademie
     
-    author: Petr Svetr
+    author: 
     
-    email: petr.svetr@gmail.com
+    email: 
     
-    discord: Petr Svetr#4490
+    discord: 
     
     """
 
